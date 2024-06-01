@@ -20,7 +20,7 @@ It is hoped that the VR therapy will enable people to experience relief from chr
 
 **Aim(s) of the study:** 
 
-To evaluate the effectiveness of an hypnotic VR therapy compared to standard of care (SOC) in reducing pain levels and improving quality of life for patients with chronic back pain.
+To evaluate the effectiveness of an hypnotic VR therapy compared to standard of care (SOC) in reducing pain intensity levels for patients with chronic back pain.
 
 **Who can participate?**
 
@@ -28,7 +28,7 @@ Adults 18+ with a confirmed diagnosis of non-specific chronic back pain for at l
 
 **What does the study involve?**
 
-Participants are randomly allocated to the VR therapy group, or the VR documentary group. The VR treatment comprises about six 7 minute VR sessions, whilst the VR documentary group comprises six 7 minute nature documentaries. Both groups will continue with their standard of care treatments throughout the study which may be any combination of prescription pain relief, physiotherapy and talking therapies. Baseline assessments are conducted at the start of the study and after 6 (post-treatment) and 24 weeks (follow-up) to understand the long term effects of VR. The primary outcome is self reported pain intensity levels using the McGill pain Questionnaire (MPQ). The secondary outcome is self reported health related quality of life indicators using the five-level EQ-5D .
+Participants are randomly allocated to the VR therapy group, or the VR documentary group. The VR treatment comprises about six 7 minute VR sessions, whilst the VR documentary group comprises six 7 minute nature documentaries. Both groups will continue with their standard of care treatments throughout the study which may be any combination of prescription pain relief, physiotherapy and talking therapies. Baseline assessments are conducted at the start of the study and after 6 (post-treatment) and 24 weeks (follow-up) to understand the long term effects of VR. The primary outcome is self reported pain intensity levels using the McGill pain Questionnaire (MPQ). 
 
 **Study Design:**
 
@@ -107,4 +107,4 @@ Participants will be instructed not to disclose their group assignment or provid
 - Primary outcome (pain levels):
     - Mixed-effects model for repeated measures (MMRM) analysis to compare the change in MPQ scores from baseline to 6 weeks and 24 weeks between the two groups.
 
-    
+
